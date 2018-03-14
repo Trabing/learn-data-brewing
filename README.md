@@ -10,7 +10,7 @@ Topics covered:
 * multidimensional modelling
 * slowly changing dimensions
 * star and snowflake schema
-* ETL basics: ocnforming dimension labels, transformations, mappings
+* ETL basics: conforming dimension labels, transformations, mappings
 * metadata based mappings
 * master data management
 * data quality and data quality indicators
